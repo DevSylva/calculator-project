@@ -1,0 +1,10 @@
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\SYLVA\Desktop\C# practice\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\SYLVA\Desktop\C# practice\MEG202.1 ASSIGNMENT - GROUP 4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\SYLVA\Desktop\C# practice\MEG202.1 ASSIGNMENT - GROUP 4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
